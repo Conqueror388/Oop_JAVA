@@ -117,7 +117,7 @@ public class BankOperations {
 
         System.out.println("\n=========================================\n");
 
-        // TEST CASE 2
+    
         System.out.println(
                 "TEST CASE 2 – WITHDRAW OPERATION (INSUFFICIENT BALANCE)"
         );
